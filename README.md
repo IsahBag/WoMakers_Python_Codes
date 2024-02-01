@@ -7,3 +7,7 @@ Aqui irei incluir todos os exercícios feitos em linguagem Python no Bootcamp Ba
 2. Tomadas de Decisão e Estruturas de Repetição
 3. Listas, Tuplas e Dicionários
 4. Funções
+
+### 2º Grupo de Exercícios - Semana 04 - Orientação à Objetos
+1. Classes e Objeto
+2. Classes Abstratas
