@@ -1,7 +1,7 @@
 """EXERCÍCIO 1: Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos"""
 
    
- finindo a função que realizará a soma:
+# Definindo a função que realizará a soma:
 def soma(a,b,c):
     return a + b + c
 

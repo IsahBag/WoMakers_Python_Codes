@@ -11,9 +11,6 @@
 
 # Para modelar seu sistema, utilize obrigatoriamente os conceitos "classe", "herança", "propriedades", "encapsulamento" e "classe abstrata".
 
-import colorama
-colorama.init()
-
 class Pessoa:
     def __init__(self, nome, telefone, renda, sexo):
         self.__nome = nome
